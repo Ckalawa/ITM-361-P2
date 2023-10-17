@@ -1,0 +1,234 @@
+  body {
+  background-color: #87CEEB;
+}
+
+
+@font-face {
+    font-family: "AlphaClouds";
+    src: url("https://db.onlinewebfonts.com/t/f430f9795c4bd65e6e4192aa0073cd4d.eot");
+    src: url("https://db.onlinewebfonts.com/t/f430f9795c4bd65e6e4192aa0073cd4d.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/f430f9795c4bd65e6e4192aa0073cd4d.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/f430f9795c4bd65e6e4192aa0073cd4d.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/f430f9795c4bd65e6e4192aa0073cd4d.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/f430f9795c4bd65e6e4192aa0073cd4d.svg#AlphaClouds")format("svg");
+}
+
+  h1 {
+	font-family: Verdana, sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 10em;
+	
+}
+
+  h2 {
+	font-family: "AlphaClouds";
+	color: white;
+	text-align: center;
+	font-size: 8em;
+}
+
+  h3 {
+    font-family: "AlphaClouds";
+	color: white;
+	text-align: center;
+	font-size: 4em;
+}
+ 
+   p {
+	font-family: Verdana, sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 1em;
+}
+
+   ul li {
+	font-family: Verdana, sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 1em;
+} 
+
+#menu {
+  float: left;
+  width: 100%;
+  position: relative;
+}
+
+#menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+
+#menu ul li {
+  font-size: 30px;
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+  color: white;
+}
+
+#menu ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.airbus {
+	position: absolute;
+	top: 150px;
+	left: 20%;
+	height: 100px;
+	width: 900px;
+}
+.boeing {
+	position: absolute;
+	top: 20px;
+	right: 20%;
+	height: 400px;
+	width: 900px;
+}
+
+.a220 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.a300 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.a310 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.a320 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.a330 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.a340 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.a350 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.a380 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.b717{
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.b727 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.b737 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.b747 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.b757 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.b767 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.b777 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.b787 {
+  float: none;
+  width: 500px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.cloud4 {
+  float: none;
+  width: 100%;
+  overflow: hidden;
+}
+
+.cloud1 {
+  float: none;
+  width: 100px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.cloud2 {
+  float: right;
+  width: 100px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+.cloud3 {
+  float: none;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+}
