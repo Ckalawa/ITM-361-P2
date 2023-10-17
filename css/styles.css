@@ -39,15 +39,13 @@
 
 #menu ul {
   list-style-type: none;
-  margin: none;
-  padding: none;
-  float: right;
-  overflow: hidden;
   background:#87CEEB;
-  width: 100%;
+  width: 97.5%;
   height: auto;
-  position: absolute;
-  top: 0%;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
 }
 
 #menu ul li {
@@ -71,6 +69,11 @@
   color: black;
 }
 
+#info {
+  text-align: center;
+  float: right;
+}
+
 #footer a{
   clear: left;
   background: #87CEEB;
@@ -84,5 +87,4 @@
   text-align: center;
 }
 
-
-  
+ 
