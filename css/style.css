@@ -49,35 +49,38 @@
 	font-size: 1em;
 } 
 
-#menu {
-  float: left;
-  width: 100%;
-  position: relative;
-}
-
 #menu ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
-  position: relative;
-  left: 50%;
   float: left;
+  overflow: hidden;
+  background:#87CEEB;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0%;
 }
 
 #menu ul li {
-  font-size: 30px;
   float: left;
-  position: relative;
-  right: 50%;
-  display: block;
-  color: white;
+  width: 33.33%;
+  overflow: hidden;
 }
 
 #menu ul li a {
-  display: block;
-  padding: 10px 20px;
-  color: white;
-  text-decoration: none;
+   overflow: hidden;
+   text-decoration: none;
+   display: block;
+   text-align: center;
+   padding: 20px 30px;
+   color: white;
+   font-size: 2em;
+   font-family: "AlphaClouds";
+}
+
+#menu a:hover {
+  background-color: white;
+  color: black;
+  overflow: hidden;
 }
 
 .airbus {
